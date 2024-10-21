@@ -11,7 +11,7 @@ The key feature of this GPT is its focus on user-centric problem solving. Rather
 
 > Alex: "*Change is developed with problems that must be solved.*"
 
-> "*There is a lot of 'Problem Solver' custom GPTs so I made 'Problem Soled'.*"
+> "*There is a lot of 'Problem Solver' custom GPTs so I made 'Problem Solved'.*"
 
 #
 ### Related Links
