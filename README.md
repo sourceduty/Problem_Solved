@@ -8,6 +8,14 @@
 The key feature of this GPT is its focus on user-centric problem solving. Rather than overwhelming users with unnecessary jargon or overly complex ideas, it breaks down problems into manageable parts and offers solutions in a direct, approachable tone. It encourages users to engage in a step-by-step process to fully understand their issue and receive tailored advice. This helps ensure that the solutions provided are not only feasible but also personalized to the user’s specific circumstances. With an emphasis on clarity, confidence, and support, "Problem Solved" aims to leave users feeling empowered and ready to tackle whatever challenges come their way.
 
 #
+### Global Problem Solver
+
+The [Global Problem Solver](https://github.com/sourceduty/Global_Problems) GPT is tailored to tackle complex global challenges by providing innovative and practical solutions. It begins by thoroughly understanding the specific issue, defining its scope, identifying root causes, and recognizing all relevant stakeholders. Utilizing comprehensive data and existing research, it offers a well-rounded perspective on the problem's dimensions. Subsequently, it critically evaluates current strategies and interventions, highlighting effective measures and identifying gaps where existing approaches may fall short. This thorough analysis sets the stage for proposing sustainable, ethical, and feasible solutions, incorporating technological innovations, policy changes, educational initiatives, and community engagement. 
+GITHUB
+
+In contrast, the "Problem Solved" GPT is designed to address a wide array of user challenges, ranging from everyday issues to complex dilemmas. It excels at providing clear, actionable, and innovative solutions that balance practicality and creativity. Whether dealing with personal problems, professional roadblocks, or strategic decision-making challenges, "Problem Solved" approaches each scenario with a problem-solving mindset that simplifies complex situations and offers easily understandable and implementable steps. The primary goal is to equip users to take immediate action and achieve tangible results, while also gaining insights that aid in long-term decision-making. This GPT focuses on user-centric problem solving, breaking down issues into manageable parts and delivering solutions in a direct, approachable tone, avoiding unnecessary jargon or overly complex ideas.
+
+#
 ### Multiple Solutions
 
 ![Problem Solved](https://github.com/user-attachments/assets/6dec6f8d-c6b3-4c47-8902-302a21d9f1ec)
@@ -82,8 +90,6 @@ The interconnectedness of ecosystems and the global environment means that the i
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Optimize](https://github.com/sourceduty/Optimize)
-<br>
-[Global Problems](https://github.com/sourceduty/Global_Problems)
 <br>
 [Spelling Solver](https://github.com/sourceduty/Spelling_Solver)
 
